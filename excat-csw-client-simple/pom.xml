@@ -4,7 +4,7 @@
 	<parent>
 		<groupId>gov.usgs.cida.jslibs</groupId>
 		<artifactId>excat-csw-parent</artifactId>
-		<version>20090129-1</version>
+		<version>20090129-2-SNAPSHOT</version>
 	</parent>
 	<groupId>gov.usgs.cida.jslibs</groupId>
 	<artifactId>excat-csw-client-simple</artifactId>

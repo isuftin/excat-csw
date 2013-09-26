@@ -54,8 +54,8 @@
 	</distributionManagement>
 		
 	<scm>
-		<url>https://github.com/USGS-CIDA/excat-csw</url>
-		<connection>scm:git:https://github.com/USGS-CIDA/excat-csw.git</connection>
+		<url>scm:git:git@github.com/USGS-CIDA/excat-csw.git</url>
+		<connection>scm:git:git@github.com/USGS-CIDA/excat-csw.git</connection>
 		<developerConnection>scm:git:git@github.com:USGS-CIDA/excat-csw.git</developerConnection>
 		<tag>HEAD</tag>
 	</scm>
